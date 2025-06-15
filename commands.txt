@@ -1,0 +1,17 @@
+1) More than one DBContext File
+--If selecting perticular DBContext File from Data folder then there are commands
+for nuget Package Manager: add-migration FirstMigration -context EmployeesDbContext then update-database -context EmployeesDbContext
+for CLI or CommandPrompt: dotnet ef migration add add-migration FirstMigration --context EmployeesDbContext then dotnet ef database update --context EmployeeDbContext
+
+In webapi .net 9.0 inbuilt swagger not found then use
+
+2) if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "demo api");
+    });
+}
+
+this line of code in Program.cs file and run this url https://localhost:7055/swagger/index.html
