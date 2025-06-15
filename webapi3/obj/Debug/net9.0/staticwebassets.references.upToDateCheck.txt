@@ -1,0 +1,5 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\eftrial2\eftrial2\obj\Debug\net9.0\staticwebassets.build.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\eftrial2\eftrial2\obj\Debug\net9.0\staticwebassets.build.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\eftrial2\eftrial2\obj\Debug\net9.0\staticwebassets.build.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\eftrial2\eftrial2\obj\Debug\net9.0\staticwebassets.build.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\eftrial2\eftrial2\obj\Debug\net9.0\staticwebassets.build.json
